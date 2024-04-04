@@ -21,7 +21,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 def CustomChatGPT(user_input, messages=[]):
     try:
