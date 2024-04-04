@@ -1,2 +1,2 @@
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY="sk-"
 python chatGPT.py 
